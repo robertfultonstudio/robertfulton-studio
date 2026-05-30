@@ -1,5 +1,0 @@
-# Render audio generati (binari pesanti): consegnati in chat, non versionati.
-out/
-*.wav
-*.aiff
-*.aif
